@@ -4,6 +4,7 @@
   - install MikTex
   - install Texmaker 
 
+===============================================================================================
 # mujoco
 How to install mujoco
 
